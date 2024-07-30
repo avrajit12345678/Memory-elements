@@ -17,6 +17,11 @@ The ROM (Read-Only Memory) module is initialized with fixed data and only allows
 ### ROM Structure
 ![ROM](https://github.com/user-attachments/assets/161da489-9d6a-4ebe-a547-18ce0f5dee0a)
 
+## FIFO MODULE
+The FIFO (First In First Out) module allows both reading and writing of data on the basis of First In First Out principle . It is parameterized by width and depth to allow for flexible memory configurations.
+### FIFO Structure
+![FIFO](https://github.com/user-attachments/assets/c9513896-133a-4467-ac75-32bd2f8684d9)
+
 
 ## Usage
 
