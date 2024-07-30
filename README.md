@@ -25,5 +25,5 @@ The FIFO (First In First Out) module allows both reading and writing of data on 
 
 ## Usage
 
-These modules can be used in digital design projects where memory elements are required. The RAM module is suitable for applications needing data storage with read/write capabilities, while the ROM module is ideal for storing fixed data that does not change during operation.
+These modules can be used in digital design projects where memory elements are required. The RAM module is suitable for applications needing data storage with read/write capabilities, while the ROM module is ideal for storing fixed data that does not change during operation.One such example is using the RAM module to make the FIFO module
 
