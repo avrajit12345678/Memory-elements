@@ -7,7 +7,8 @@ This repository includes Verilog modules for RAM and ROM.
 The RAM (Random Access Memory) module allows both reading and writing of data. It is parameterized by width and depth to allow for flexible memory configurations.
 
 ### RAM Structure
-![RAM](https://github.com/user-attachments/assets/61f7645c-18aa-45ce-baed-71cf7fd4dc7a)
+![RAM](https://github.com/user-attachments/assets/40496e3f-f847-4af0-af6f-65f7be413b92)
+
 
 ## ROM Module
 
